@@ -1,0 +1,77 @@
+.To-Do {
+  background-color: #D9D9D9;
+  padding: 30px 0;
+}
+
+.To-Do_inner {
+  background-color: #ffffff;
+  padding: 20px 0;
+}
+
+.container {
+  width: 476px;
+  text-align: center;
+  justify-content: center;
+  margin: 100px auto 0;
+}
+
+.HIGH,
+.LOW {
+  margin-bottom: 20px;
+}
+
+.new-task_HIGH-input,
+.new-task-LOW-input {
+  margin-bottom: 20px;
+  width: 400px;
+  padding: 0px 20px 0px 0px;
+
+}
+
+.new-task_HIGH,
+.new-task_LOW {
+  position: relative;
+}
+
+.add-new-task {
+  background-color: transparent;
+  border: transparent;
+  position: absolute;
+  right: 40px;
+  top: 1px;
+}
+
+.high-list {
+  width: 400px;
+  margin: 0 auto;
+}
+
+.new-task {
+  border: 1px solid black;
+  width: 400px;
+  margin: 0 auto 20px;
+  position: relative;
+  text-align: left;
+  padding-left: 20px;
+}
+
+.input_inner-new_task-high {
+  position: absolute;
+  left: 0;
+  margin: 3px 0px 0px 3px;
+}
+
+.button-delete_task {
+
+  position: absolute;
+  background: transparent;
+  border: transparent;
+  padding: 0;
+  margin: 0;
+  right: 5px;
+}
+
+.checkbox {
+  position: absolute;
+  left: 0;
+}
